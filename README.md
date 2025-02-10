@@ -13,6 +13,9 @@
 <a href="https://x.com/lautydev_" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=x" alt="Twitter" height="45" /></a>
 <a href="mailto:git@lauty.dev" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Email" height="45" /></a>
 
+<h3 align="left">Electronics projects:</h3>
+<a href="https://www.tinkercad.com/users/0moCqH46dLE?type=circuits" target="blank"><img align="center" src="https://i.imgur.com/f6KceD5.png" alt="Tinkercad" height="45" width="45" /></a>
+
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://github.com/LautyDev" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts,nextjs,nodejs,js,html,css,sass,android,androidstudio,arduino,bash,npm,pnpm,bun,bootstrap,cpp,cloudflare,dart,deno,discord,bots,discordjs,express,puppeteer,flutter,git,github,githubactions,linux,ubuntu,windows,powershell,md,mongodb,firebase,netlify,vercel,py,django,react,tensorflow,unity,vscode,replit,workers,figma,canva&perline=17" width="100%"></a>
 

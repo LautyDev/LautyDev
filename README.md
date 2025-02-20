@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.com/users/656842811496333322" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Discord" height="45" /></a>
-<a href="https://x.com/lautydev_" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=x" alt="Twitter" height="45" /></a>
+<a href="https://x.com/lautydev_" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=x" alt="X" height="45" /></a>
 <a href="mailto:git@lauty.dev" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Email" height="45" /></a>
 
 <h3 align="left">Electronics projects:</h3>
